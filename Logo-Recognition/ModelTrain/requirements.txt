@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+requests
+timm
+mlflow
+torchmetrics
+pytorch-lightning
+matplotlib
+streamlit
+lightning
